@@ -1,4 +1,4 @@
-# Login-and-registration-system
+# Login-and-Registration-system
 
 Language used: Python
 
