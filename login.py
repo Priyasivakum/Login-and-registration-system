@@ -28,7 +28,7 @@ def login():
                     s = False
 
                     if len(b) < 5 and len(b) > 16:
-                        print("Create Password with length between 5 an 16, Try Again")
+                        print("Create Password with length between 5 and 16, Try Again")
                         register()
 
                     if len(b) > 5 and len(b) < 16:
